@@ -1,5 +1,4 @@
 import MyPDFComponent from "./MyPDFComponent"
-import './index.css';
 
 const App = () => {
   return (
